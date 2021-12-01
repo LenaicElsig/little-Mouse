@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lenaïc Elsig
 - 👀 I’m interested in 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Infotronics, in the HES-SO
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me 
+- 📫 How to reach me, lenaic.elsig@students.hevs.ch
 
 <!---
 little-Mouse/little-Mouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
