@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lenaïc Elsig
-- 👀 I’m interested in 
+- 👀 I’m interested in getting good grades
 - 🌱 I’m currently learning Infotronics, in the HES-SO
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me, lenaic.elsig@students.hevs.ch
